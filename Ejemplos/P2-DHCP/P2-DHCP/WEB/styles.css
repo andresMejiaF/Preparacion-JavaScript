@@ -1,0 +1,48 @@
+.container-lg .card {
+    background: #5499C7;
+}
+
+.container .card {
+    background: #5499C7;
+  
+}
+
+.divider{
+
+    width: 80%;
+    height: 5px;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+
+.line{
+    text-align: center;
+}
+
+.btn-ejc:hover{
+    background-color: transparent !important;
+    border-color: #f8f9fa !important;
+    color:white !important;
+    display:block;
+    margin:auto;
+}
+
+.btn-ejc{
+    color: black !important;
+    background: white !important;
+    display:block;
+    margin:auto;
+}
+
+.container-lg .card .form-control{
+    display:block;
+    margin:auto; 
+    width: 80%;
+    height: 200px;
+}
+
+.container-lg .card .textMensaje .placeholder{
+    text-align: center;
+    display:block;
+    margin:auto; 
+}
